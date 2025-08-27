@@ -1,0 +1,12 @@
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.vscode/
+.DS_Store
+
+# env files
+.env
+.env.*
+backend/.env
+frontend/.env

@@ -1,0 +1,14 @@
+{
+  "name": "glcc-sc",
+  "private": true,
+  "scripts": {
+    "setup": "npm --prefix backend i && npm --prefix frontend i",
+    "dev": "concurrently -n BE,FE -c cyan,magenta \"npm --prefix backend run dev\" \"npm --prefix frontend run dev\"",
+    "be": "npm --prefix backend run dev",
+    "fe": "npm --prefix frontend run dev",
+    "seed": "npm --prefix backend run seed"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

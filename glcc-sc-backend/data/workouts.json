@@ -1,0 +1,146 @@
+[
+  {
+    "team": "Men's Basketball",
+    "dayNumber": 1,
+    "title": "Lower Body Strength & Stability",
+    "blocks": [
+      {
+        "label": "Warm-Up",
+        "items": [
+          {"code":"Warm-Up","name":"Foam Roll (Quads, Hams, Glutes, Calves)","setsReps":"30s per group","rest":"30-45s","notes":"Get ready to move.","isWarmup":true},
+          {"code":"Warm-Up","name":"Ankle Mobility (Knee-to-Wall)","setsReps":"10 reps/side","rest":"30-45s","notes":"Improve range of motion for better squatting.","isWarmup":true},
+          {"code":"Warm-Up","name":"Glute Bridge","setsReps":"2 x 10-12 reps","rest":"30-45s","notes":"Activate the glutes for hip power.","isWarmup":true},
+          {"code":"Warm-Up","name":"Bodyweight Squat","setsReps":"2 x 10-12 reps","rest":"30-45s","notes":"Practice form and warm up the knees.","isWarmup":true}
+        ]
+      },
+      {
+        "label": "Superset A",
+        "items": [
+          {"code":"A1","name":"Trap Bar Deadlift","setsReps":"3-4 x 5 reps","rest":"60-90s","notes":"Builds the engine for your vertical jump and explosion."},
+          {"code":"A2","name":"Clamshells (with band)","setsReps":"2 x 12-15 reps/side","rest":"---","notes":"Activates hip stabilizers to protect your knees."}
+        ]
+      },
+      {
+        "label": "Superset B",
+        "items": [
+          {"code":"B1","name":"Goblet Squat","setsReps":"3 x 8-10 reps","rest":"60-90s","notes":"Strengthens your core and legs for a powerful jump shot."},
+          {"code":"B2","name":"Side Plank","setsReps":"2 x 30-45s hold/side","rest":"---","notes":"Builds core stability to stay balanced on a drive."}
+        ]
+      },
+      {
+        "label": "Superset C",
+        "items": [
+          {"code":"C1","name":"Walking Lunge","setsReps":"3 x 8-10 reps/leg","rest":"60-90s","notes":"Builds single-leg strength for accelerating and changing direction."},
+          {"code":"C2","name":"Single-Leg RDL","setsReps":"2 x 10-12 reps/leg","rest":"---","notes":"Strengthens hamstrings and glutes to keep knees healthy."}
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Men's Basketball",
+    "dayNumber": 2,
+    "title": "Upper Body Hypertrophy & Shoulder Health",
+    "blocks": [
+      {
+        "label": "Warm-Up",
+        "items": [
+          {"code":"Warm-Up","name":"Foam Roll (Lats, Pecs, Upper Back)","setsReps":"30s per group","rest":"30-45s","notes":"Prep the shoulders for lifting.","isWarmup":true},
+          {"code":"Warm-Up","name":"Banded Pull-Aparts","setsReps":"2 x 15 reps","rest":"30-45s","notes":"A light warm-up for the shoulder blades.","isWarmup":true},
+          {"code":"Warm-Up","name":"Banded External Rotations","setsReps":"2 x 15 reps/arm","rest":"30-45s","notes":"Strengthens shoulder stabilizers.","isWarmup":true},
+          {"code":"Warm-Up","name":"Push-up to Downward Dog","setsReps":"2 x 8 reps","rest":"30-45s","notes":"Dynamic stretch for the chest and shoulders.","isWarmup":true}
+        ]
+      },
+      {
+        "label": "Superset A",
+        "items": [
+          {"code":"A1","name":"Incline DB Bench Press","setsReps":"3 x 8-12 reps","rest":"60-90s","notes":"Builds upper-body strength for boxing out and creating space."},
+          {"code":"A2","name":"Banded External Rotations","setsReps":"2 x 15 reps/arm","rest":"---","notes":"Balances pushing with shoulder health."}
+        ]
+      },
+      {
+        "label": "Superset B",
+        "items": [
+          {"code":"B1","name":"Pull-Ups (or Assisted)","setsReps":"3-4 x AMRAP","rest":"60-90s","notes":"Builds a strong back for jumping and rebounding."},
+          {"code":"B2","name":"Band-Resisted Face Pull","setsReps":"2 x 15-20 reps","rest":"---","notes":"Protects your shoulders from overuse."}
+        ]
+      },
+      {
+        "label": "Superset C",
+        "items": [
+          {"code":"C1","name":"DB Overhead Press","setsReps":"3 x 8-12 reps","rest":"60-90s","notes":"Strengthens your shoulders for a smooth jump shot."},
+          {"code":"C2","name":"Single-Arm DB Row","setsReps":"3 x 8-12 reps/arm","rest":"---","notes":"Builds back thickness and balances strength."}
+        ]
+      },
+      {
+        "label": "Accessory",
+        "items": [
+          {"code":"Accessory","name":"Bicep Curls / Tricep Pushdowns","setsReps":"2 x 12-15 reps","rest":"30-45s","notes":"Builds arm size and endurance."}
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Men's Basketball",
+    "dayNumber": 3,
+    "title": "Full Body Power & Explosiveness",
+    "blocks": [
+      {
+        "label": "Warm-Up",
+        "items": [
+          {"code":"Warm-Up","name":"Jumping Pogo Jumps","setsReps":"1 minute","rest":"30-45s","notes":"Get the heart rate up.","isWarmup":true},
+          {"code":"Warm-Up","name":"Bodyweight Squat to Box Jump","setsReps":"2 x 5 reps","rest":"30-45s","notes":"Prepares your body for explosive movements.","isWarmup":true},
+          {"code":"Warm-Up","name":"Med Ball Slams","setsReps":"2 x 5-8 reps","rest":"30-45s","notes":"Primes your body for total-body power.","isWarmup":true}
+        ]
+      },
+      {
+        "label": "Superset A",
+        "items": [
+          {"code":"A1","name":"Kettlebell Swing","setsReps":"3 x 10-12 reps","rest":"60-90s","notes":"Builds explosive hip power to improve your vertical."},
+          {"code":"A2","name":"T-Y-I's (Prone)","setsReps":"2 x 10 reps each","rest":"---","notes":"Strengthens small upper back muscles for shoulder health."}
+        ]
+      },
+      {
+        "label": "Superset B",
+        "items": [
+          {"code":"B1","name":"Push Press (with DBs)","setsReps":"3 x 5-8 reps","rest":"60-90s","notes":"Use your whole body to create force."},
+          {"code":"B2","name":"Dead Bug","setsReps":"2 x 10-12 reps/side","rest":"---","notes":"Builds deep core stability and control."}
+        ]
+      },
+      {
+        "label": "Superset C",
+        "items": [
+          {"code":"C1","name":"Bulgarian Split Squat","setsReps":"3 x 8-10 reps/leg","rest":"60-90s","notes":"Single-leg strength for stable landings and quick cuts."},
+          {"code":"C2","name":"Spanish Squats","setsReps":"2 x 30-45s","rest":"---","notes":"Muscular endurance for a strong defensive stance."}
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Women's Volleyball",
+    "dayNumber": 1,
+    "title": "Volleyball Day 1 (example)",
+    "blocks": [
+      { "label": "Warm-Up", "items": [
+        {"code":"Warm-Up","name":"Foam Roll + Dynamic Prep","setsReps":"5-7 min","rest":"---","notes":"General tissue + movement prep","isWarmup":true}
+      ]},
+      { "label": "Main", "items": [
+        {"code":"A1","name":"Trap Bar Deadlift","setsReps":"3 x 5","rest":"60-90s","notes":"Power through hips"},
+        {"code":"A2","name":"Band Pull-Apart","setsReps":"2 x 15","rest":"---","notes":"Scap health"}
+      ]}
+    ]
+  },
+  {
+    "team": "Women's Volleyball",
+    "dayNumber": 2,
+    "title": "Volleyball Day 2 (example)",
+    "blocks": [
+      { "label": "Warm-Up", "items": [
+        {"code":"Warm-Up","name":"Jump Rope + Shoulder Series","setsReps":"5 min","rest":"---","notes":"Get hot","isWarmup":true}
+      ]},
+      { "label": "Main", "items": [
+        {"code":"A1","name":"Front Squat","setsReps":"3 x 6-8","rest":"60-90s","notes":"Posture tall"},
+        {"code":"A2","name":"Side Plank","setsReps":"2 x 30-45s/side","rest":"---","notes":"Brace hard"}
+      ]}
+    ]
+  }
+]
