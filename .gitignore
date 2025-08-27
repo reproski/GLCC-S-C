@@ -1,12 +1,12 @@
+# dependencies
 node_modules/
-npm-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-.vscode/
-.DS_Store
+glcc-sc-backend/node_modules/
+glcc-sc-frontend/node_modules/
 
 # env files
 .env
-.env.*
-backend/.env
-frontend/.env
+**/.env
+
+# misc
+.DS_Store
+dist/
